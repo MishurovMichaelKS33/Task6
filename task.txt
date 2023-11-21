@@ -1,0 +1,4 @@
+Зробити код котрий буде парсити сайт 
+https://www.hospitalsafetygrade.org/all-hospitals
+Використовувати гем https://github.com/sparklemotion/nokogiri
+Та завантажити у CSV
